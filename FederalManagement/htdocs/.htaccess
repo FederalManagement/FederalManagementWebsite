@@ -1,0 +1,15 @@
+Redirect 301 /corporate/about_us.php http://www.federalmanagement.co.uk/about.php
+Redirect 301 /debt_collection/debt_collection.php http://www.federalmanagement.co.uk/debtcollection.php
+Redirect 301 /other_services/other_services.php http://www.federalmanagement.co.uk/otherservices.php
+Redirect 301 /contact_us.php http://www.federalmanagement.co.uk/debt_collection/contact.php
+Redirect 301 /debt_collection/commercial_collection.php http://www.federalmanagement.co.uk/commercialdebt.php
+Redirect 301 /debt_collection/private_collection.php http://www.federalmanagement.co.uk/privatedebtcolletion.php
+Redirect 301 /debt_collection/international_collection.php http://www.federalmanagement.co.uk/internationaldebtcollection.php
+Redirect 301 /corporate/security_and_trust.php http://www.federalmanagement.co.uk/securityandtrust.php
+Redirect 301 /corporate/vision-values.php http://www.federalmanagement.co.uk/vision.php
+Redirect 301 /corporate/testimonials.php http://www.federalmanagement.co.uk/testimonials.php
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^federalmanagement.co.uk [NC]
+RewriteRule ^(.*)$ http://www.federalmanagement.co.uk/$1 [L,R=301]
+

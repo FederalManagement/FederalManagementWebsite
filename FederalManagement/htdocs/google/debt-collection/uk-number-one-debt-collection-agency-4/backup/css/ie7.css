@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+#footer_bar {
+	width:951px;
+	height:60px;
+	/*float:left;*/
+	display:block;
+	background-image:url(../images/footer_bar.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight:normal;
+	color:#FFFFFF;
+	padding-top:15px;
+	margin:0px 0px -15px -18px;
+	z-index:20;
+}
+
+#rounded_bottom {
+	width:1016px;
+	height:47px;
+	display:block;
+	float:left;
+	clear:both;
+	background-image:url(../../images/interface/rounded_bottom.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+	z-index:10;
+}

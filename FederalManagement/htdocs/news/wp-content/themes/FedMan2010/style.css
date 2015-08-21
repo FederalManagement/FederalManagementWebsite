@@ -1,0 +1,768 @@
+/*
+
+Theme Name:     FedMan2010
+Description:    Redesign for the news module of the Federal Management's website (November 2010)
+Version:        1.0
+Author:         Luis Eduardo Paz
+
+*/
+
+/* Quick Reset */
+html, body, div, form, fieldset, legend, label, ul, li, h1, h2, h3, h4, h5, h6 {margin:0;padding:0;}
+
+body {
+	font-family:"Lucida Sans Unicode", Tahoma, Arial;
+	font-size:11px;
+	color:#333333;
+	background-color:#ddd;
+	background-image:url(images/interface/main_bg.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:top center;
+}
+
+p {text-align:justify;}
+
+h1 {
+	font-family:Verdana,Tahoma, Arial;
+	font-size:18px;
+	font-weight:normal;
+	color:#990000;
+	margin:0px 0px 0px 0px;
+	display:block;
+}
+
+h1 a {text-decoration:none;color:#990000;}
+h1 a:hover {text-decoration:underline;color:#666;}
+
+h2 {
+	font-family:"Lucida Sans Unicode", Tahoma, Arial;
+	font-size:13px;
+	font-weight:normal;
+	color:#990000;
+	margin:0px 0px 10px 0px;
+	display:block;
+}
+
+#global_container {
+	width:1016px;
+	position:absolute;
+	margin-left:-508px;
+	left:50%;
+	display:block;
+	margin-top:15px;
+}
+
+#rounded_top {
+	width:1016px;
+	height:47px;
+	display:block;
+	float:left;
+	clear:both;
+	background-image:url(images/interface/rounded_top.png);
+	background-position:bottom left;
+	background-repeat:no-repeat;
+}
+
+#rounded_body {
+	width:1016px;
+	height:auto;
+	display:block;
+	float:left;
+	clear:both;
+	background-image:url(images/interface/rounded_body.png);
+	background-position:top left;
+	background-repeat:repeat-y;
+}
+
+#rounded_bottom {
+	width:1016px;
+	height:47px;
+	display:block;
+	float:left;
+	clear:both;
+	background-image:url(images/interface/rounded_bottom.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+}
+
+#header #logo {
+	width:350px;
+	height:76px;
+	display:block;
+	float:left;
+	background-image:url(images/interface/main_logo.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+	margin:0px 0px 0px 40px;
+}
+
+#header #menu {
+	width:575px;
+	height:79px;
+	float:left;
+	display:block;
+	background-image:url(images/interface/menu_bg_3.jpg);
+	background-position:top left;
+	background-repeat:no-repeat;
+	margin:18px 0px 0px 23px;
+}
+
+#header #menu ul {
+	width:auto;
+	height:15px;
+	margin:16px 0px 0px 73px;
+	float:left;
+	display:block;
+}
+
+#header #menu li {
+	width:auto;
+	height:15px;
+	list-style:none;
+	list-style-image:none;
+	color:#FFFFFF;
+	font-family:"Lucida Sans Unicode", Tahoma, Arial;
+	font-size:12px;
+	font-weight:bold;
+	display:inline;
+	margin:5px 20px 0px 0px;
+}
+
+#content {
+	width:914px;
+	height:auto;
+	float:left;
+	display:block;
+	margin:10px 0px 10px 50px;
+}
+
+#content #welcome-text {
+	width:420px;
+	height:auto;
+	display:block;
+	float:left;
+}
+
+.call_us {
+	text-align:right;
+	float:right;
+	display:block;
+}
+
+.call_us span {
+	font-size:14px;
+	font-weight:bold;
+	color:#990000;
+}
+
+#content #boxSet {
+	float:left;
+	display:block;
+	width:477px;
+	height:auto;
+	margin:0px 0px 0px 15px;
+}
+
+#content #boxSet ul {
+	float:left;
+	display:block;
+	width:477px;
+	height:auto;
+}
+
+#content #boxSet li {
+	display:block;
+	float:left;
+	width:139px;
+	height:auto;
+	list-style:none;
+	list-style-image:none;
+	margin:0px 0px 0px 20px
+}
+
+#content #boxSet li img {
+	float:left;
+	display:block;
+	clear:both;
+	border:1px solid #999;
+	margin:0px 0px 15px 0px;
+}
+
+#apps {
+	float:left;
+	display:block;
+	width:440px;
+	height:auto;
+	clear:left;
+	margin:20px 0px 0px 10px;
+}
+
+#apps ul {
+	float:left;
+	display:block;
+	width:440px;
+	height:auto;
+	margin:0px;
+}
+
+#apps ul li {
+	width:114px;
+	height:151px;
+	float:left;
+	display:block;
+	margin:0px 30px 0px 0px;
+	text-align:center;
+	color:#fff;
+}
+
+.checkOnline {
+	background-image:url(images/interface/check_online_bg.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+}
+
+.claimNow {
+	background-image:url(images/interface/claim_now_bg.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+}
+
+.contactUs {
+	background-image:url(images/interface/contact_us_bg.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+}
+
+#apps h1 {
+	font-family:"Lucida Sans Unicode", Tahoma, Arial;
+	font-size:12px;
+	font-weight:bold;
+	color:#fff;
+	margin:80px 0px -10px 0px;
+	display:block;
+}
+
+#apps li p {text-align:center;}
+
+#news_box {
+	width:291px;
+	height:168px;
+	float:left;
+	display:block;
+	background-image:url(images/interface/news_box_bg.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+}
+
+#banner {
+	float:right;
+	display:block;
+	width:139px;
+	height:301px;
+	margin:15px 0px 0px 0px;
+}
+
+#info_text {
+	width:420px;
+	height:auto;
+	float:left;
+	display:block;
+	margin:25px 0px 0px 0px;
+}
+
+#refer_friend {
+	width:291px;
+	height:130px;
+	float:left;
+	display:block;
+	margin:20px 0px 0px 26px;
+}
+
+#refer_friend fieldset {
+	border:none;
+	margin:0px 0px 0px 20px;
+}
+
+#refer_friend fieldset legend {
+	color:#333;
+	margin:0px 0px 10px 0px;
+	float:left;
+	display:block;
+	clear:both;
+	width:291px;
+	height:15px;
+	font-weight:bold;
+}
+
+#refer_friend fieldset label {
+	width:75px;
+	height:20px;
+	float:left;
+	display:block;
+	background-color:#333;
+	border-top-left-radius:5px;
+	border-bottom-left-radius:5px;
+	-moz-border-radius-topleft:5px;
+	-moz-border-radius-bottomleft:5px;
+	padding:4px 2px 0px 2px;
+	color:#fff;
+	font-size:10px;
+	text-align:right;
+	margin-bottom:16px;
+}
+
+#refer_friend fieldset input {
+	width:175px;
+	height:18px;
+	float:left;
+	display:block;
+	background-color:#fff;
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;
+	-moz-border-radius-topright:5px;
+	-moz-border-radius-bottomright:5px;
+	border:1px solid #999;
+	padding:3px 2px 1px 2px;
+	color:#333;
+	font-size:10px;
+	margin-bottom:16px;
+	background-image:url(images/interface/input_bg.jpg);
+	background-position:top left;
+	background-repeat:repeat-x;
+}
+
+#refer_friend fieldset .buttons {
+	background-color:#990000;
+	width:auto;
+	height:auto;
+	padding:5px;
+	color:#fff;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	text-align:center;
+	float:left;
+	display:block;
+	margin:0px 0px 0px 170px;
+	background-image:none;
+}
+
+#copyright {
+	float:left;
+	display:block;
+	clear:left;
+	width:400px;
+	height:auto;
+	color:#666;
+	font-size:10px;
+	margin:0px -30px 20px 30px;
+}
+
+#copyright strong {
+	font-weight:normal;
+	color:#333;
+}
+#copyright a img {border:none;}
+
+#associations,#others {
+	float:right;
+	display:block;
+	width:auto;
+	height:42px;
+	margin:-30px 30px 0px 0px;
+}
+#others {margin:10px 30px 20px 0}
+
+#associations img,#others img {
+	margin:0px 0px 0px 20px;
+	border:none;
+	float:right;
+	display:block;
+}
+
+#right_column {
+	float:left;
+	display:block;
+	width:700px;
+	height:auto;
+}
+
+#right_column form {
+	float:left;
+	display:block;
+	clear:both;
+	width:auto;
+	height:auto;
+}
+
+#right_column fieldset {
+	width:480px;
+	height:auto;
+	float:left;
+	display:block;
+	margin:0px 15px 0px 0px;
+	border:none;
+}
+
+#right_column fieldset label {
+	width:120px;
+	height:16px;
+	float:left;
+	display:block;
+	clear:left;
+	margin:0px 15px 10px 0px;
+	padding:4px;
+	background-color:#ddd;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	text-align:left;
+	font-size:10px;
+}
+
+#right_column fieldset input {
+	width:300px;
+	height:20px;
+	float:left;
+	display:block;
+	clear:right;
+	border:1px solid #999;
+	background-image:url(images/interface/input_bg.jpg);
+	background-position:-2px left;
+	background-repeat:repeat-x;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	margin:0px 0px 10px 0px;
+}
+
+#right_column fieldset textarea {
+	width:300px;
+	float:left;
+	display:block;
+	clear:right;
+	border:1px solid #999;
+	background-image:url(images/interface/input_bg.jpg);
+	background-position:-2px 0px;
+	background-repeat:repeat-x;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	margin:0px 0px 3px 0px;
+}
+
+#right_column fieldset select {
+	width:300px;
+	height:25px;
+	float:left;
+	display:block;
+	clear:right;
+	border:1px solid #999;
+	background-image:url(images/interface/input_bg.jpg);
+	background-position:-2px 0px;
+	background-repeat:repeat-x;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	margin:0px 0px 10px 0px;
+}
+#right_column ul {
+	margin-left:35px;
+	display:block;
+}
+
+.floatLeft {
+	float:left;
+	display:block;
+	margin:0px 20px 20px 0px;
+	border:1px solid #666;
+}
+
+.hSpacer {
+	float:left;
+	display:block;
+	width:100%;
+	height:30px;
+	clear:both;
+}
+
+.titleLine {
+	float:left;
+	display:block;
+	width:100%;
+	height:8px;
+	clear:both;
+	border-top:1px dotted #999;
+	margin:0px 0px 20px 0px;
+}
+
+#left_column {
+	float:left;
+	display:block;
+	width:191px;
+	height:auto;
+	margin:30px 0px 20px 20px;
+}
+
+.leftBox {
+	float:left;
+	display:block;
+	width:165px;
+	height:auto;
+	padding:15px;
+	border:1px solid #ccc;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	background-color:#eee;
+	margin:0px 0px 20px 0px;
+}
+
+.pics {
+	float:left;
+	display:block;
+	border:1px solid #999;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	margin:0px 0px 20px 0px;
+}
+
+.pFloat {
+	width:210px;
+	height:110px;
+	float:left;
+	display:block;
+	margin:0px;
+}
+
+.button_container {
+	display:block;
+	float:left;
+	width:auto;
+	height:auto;
+	margin:10px 0px 0px 141px;
+}
+
+#sidebar {
+	padding-left:20px;
+	border-left:1px dotted #999;
+}
+
+#sidebar li {
+	color:#990000;
+	list-style:none;
+	list-style-image:none;
+}
+
+#sidebar a:link {text-decoration:none;color:#666;}
+#sidebar a:active {text-decoration:none;color:#666;}
+#sidebar a:visited {text-decoration:none;color:#666;}
+#sidebar a:hover {text-decoration:underline;color:#990000;}
+
+#sidebar h2 {
+	font-size:14px;
+	font-weight:bold;
+	margin:5px 0px 12px 0px:
+}
+
+.postmetadata {
+	border:1px dashed #666;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	background-color:#dedede;
+	padding:5px;
+	padding-left:10px;
+	margin:10px 0px 25px 0px;
+}
+
+.postmetadata a {text-decoration:none;color:#990000;}
+.postmetadata a:hover {text-decoration:underline;color:#333;}
+
+.alignleft a {text-decoration:none;color:#990000;}
+.alignleft a:hover {text-decoration:underline;color:#666;}
+
+.alignright a {text-decoration:none;color:#990000;}
+.alignright a:hover {text-decoration:underline;color:#666;}
+
+.entry a {text-decoration:underline;color:#990000;}
+.entry a:hover {text-decoration:none;color:#666;}
+
+/*#commentform #author, #commentform #email, #commentform #url, #commentform textarea {
+	background: #fff;
+	border: 1px solid #333;
+}*/
+
+#commentform textarea {
+	width:350px;
+	border:1px solid #999;
+	background-image:url(images/interface/input_bg.jpg);
+	background-position:-2px 0px;
+	background-repeat:repeat-x;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	margin:0px 0px 3px 0px;
+}
+
+#commentlist li ul {
+	border-left: 1px solid #dedede;
+	font-size: 110%;
+	list-style-type: none;
+}
+
+#commentlist li .avatar {
+	float: right;
+	margin-right: 25px;
+	border: 1px dotted #dedede;
+	padding: 2px;
+}
+
+#commentform p a {text-decoration:underline;color:#990000;}
+#commentform p a:hover {text-decoration:none;color:#666;}
+
+#commentform #submit {
+	background-color:#990000;
+	border:2px solid #bbb;
+	width:auto;
+	height:auto;
+	padding:4px;
+	color:#fff;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	text-align:center;
+	margin:10px 0px 0px 0px;
+	background-image:none;
+}
+
+#respond h3 {
+	font-family:Verdana,Tahoma, Arial;
+	font-size:16px;
+	font-weight:bold;
+	color:#990000;
+	margin:20px 0px 0px 0px;
+	display:block;
+}
+
+/*styles for the toggle layer*/
+
+h2.trigger {
+	padding:12px 0 0 15px;
+	margin:0 188px 5px 0;
+	background:url(images/interface/fill_form_bg.jpg) no-repeat;
+	background-position:top left;
+	height:38px;
+	line-height:26px;
+	width:465px;
+	font-weight:normal;
+	float:left;
+	
+	font-family:Verdana,Tahoma, Arial;
+	font-size:15px;
+	font-weight:bold;
+	color:#990000;
+}
+h2.trigger a {
+	color: #990000;
+	text-decoration: none;
+	display: block;
+}
+h2.trigger a:hover { color: #666; }
+h2.active {background-position: left bottom;} /*--When toggle is triggered, it will shift the image to the bottom to show its "opened" state--*/
+.toggle_container {
+	margin: 0 0 5px;
+	padding: 0;
+	/*border-top: 1px solid #d6d6d6;
+	background: #f0f0f0 url(toggle_block_stretch.gif) repeat-y left top;*/
+	overflow: hidden;
+	font-size: 1.2em;
+	width: 500px;
+	clear: both;
+}
+.toggle_container .block {
+	padding: 20px; /*--Padding of Container--*/
+	background: url(toggle_block_btm.gif) no-repeat left bottom; /*--Bottom rounded corners--*/
+}
+
+/*end styles for the toggle layer*/
+
+.txtMenu {color:#fff;}
+
+a.txtMenu:link {text-decoration:none;}
+a.txtMenu:active {text-decoration:none;}
+a.txtMenu:visited {text-decoration:none;}
+a.txtMenu:hover {text-decoration:none;color:#333;}
+
+.txtUnderline {color:#990000;}
+
+a.txtUnderline:link {text-decoration:none;}
+a.txtUnderline:active {text-decoration:none;}
+a.txtUnderline:visited {text-decoration:none;}
+a.txtUnderline:hover {text-decoration:underline;color:#990000;}
+#social-networks {
+	float:left;
+	width:auto;
+	height:auto;
+	margin:0 0 -2px 25px;
+	position:relative;
+}
+#social-networks iframe {background:none;}
+a.google-plus {
+	width:90px;
+	height:21px;
+	float:left;
+	display:block;
+	position:absolute;
+	top:0;
+	left:158px;
+	text-decoration:none;
+	color:#666;
+}
+a.google-plus img {float:left;display:block;margin:0 4px 0 0;}
+a.google-plus span {
+	width:auto;
+	height:19px;
+	font-size:11px;
+	display:block;
+	background:#fff;
+	border:1px solid #ccc;
+	border-radius:3px;
+	text-align:center;
+	padding:0 5px;
+	margin:0;
+	float:left
+}
+#social-icons {
+	width:230px;
+	height:31px;
+	border:1px solid #bbb;
+	float:left;
+	display:block;
+	padding:0px 4px;
+	clear:both;
+	background:#fff;
+	position:relative;
+	margin:0 0 10px 0;
+}
+#social-icons ul {position:absolute;top:5px;right:-12px;width:165px}
+#social-icons ul li {
+	width:22px;
+	height:22px;
+	display:inline-block;
+	margin:0 6px 0 0;
+	list-style:none;
+}
+#social-icons p {
+	width:68px;
+	height:23px;
+	margin:-2px 0;
+	border-right:1px solid #bbb;
+	padding:10px 0 0 2px;
+}
+#mini-nav {
+	float:left;
+	display:block;
+	clear:left;
+	width:auto;
+	height:20px;
+	margin:0 0 10px 30px;
+}
+#mini-nav li {
+	float:left;
+	margin:0 15px 10px 0;
+	display:block;
+}
+.hreview-aggregate {display:none;}

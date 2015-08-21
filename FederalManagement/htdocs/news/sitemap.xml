@@ -1,0 +1,2488 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.federalmanagement.co.uk/news/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/4.0" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.4" -->
+<!-- generated-on="20th Nov 2014 10:41 am" -->
+<!-- Debug: Total comment count: 16 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://www.federalmanagement.co.uk/news/</loc>
+		<lastmod>2014-11-14T09:43:44+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 1118: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2014/11/fm-renew-investors-in-people-award/</loc>
+		<lastmod>2014-11-14T09:43:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1113: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2014/11/fact-fm-recover-debts-others-cant/</loc>
+		<lastmod>2014-11-13T10:01:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1103: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2014/09/csa-cai-accreditation/</loc>
+		<lastmod>2014-09-16T14:49:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1042: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2013/07/new-international-vip-debt-recovery-service-launched/</loc>
+		<lastmod>2014-08-12T14:54:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1095: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2014/08/federal-management-commercial-presentation/</loc>
+		<lastmod>2014-08-12T13:22:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1058: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2013/11/our-top-10-tip-for-avoiding-bad-debtors/</loc>
+		<lastmod>2014-07-16T07:46:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1075: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2014/06/client-feedback/</loc>
+		<lastmod>2014-06-12T10:21:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1072: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2014/04/easter-holidays/</loc>
+		<lastmod>2014-04-18T08:32:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1068: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2014/03/overseas-debt-collection/</loc>
+		<lastmod>2014-03-03T16:51:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1064: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2014/02/iso9001-accredited-debt-collection/</loc>
+		<lastmod>2014-02-05T12:02:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1061: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2013/12/christmas-new-year-opening-hours-2/</loc>
+		<lastmod>2013-12-23T14:49:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1048: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2013/09/100-pass-rate-in-csa-collectors-exams/</loc>
+		<lastmod>2013-09-02T09:38:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1038: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2013/04/debt-collection-firm-announces-18-rise-in-collection-figures/</loc>
+		<lastmod>2013-04-09T14:28:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1035: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2013/03/bankrupt-man-sent-to-prison-for-debt-evasion/</loc>
+		<lastmod>2013-03-12T12:28:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1032: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2013/01/banks-hit-by-fresh-mis-selling-scandal/</loc>
+		<lastmod>2013-01-31T09:21:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1026: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/12/christmas-new-year-opening-hours/</loc>
+		<lastmod>2012-12-24T13:06:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1021: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/11/uk-businesses-more-upbeat/</loc>
+		<lastmod>2012-11-20T11:21:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1019: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/10/business-insolvencies-lower-in-scotland/</loc>
+		<lastmod>2012-10-30T12:34:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1016: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/10/fsa-in-compensation-payout/</loc>
+		<lastmod>2012-10-10T11:36:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1013: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/09/government-scrap-insolvency-reforms/</loc>
+		<lastmod>2012-09-19T14:02:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1009: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/09/commercial-insolvency-levels-improve/</loc>
+		<lastmod>2012-09-06T08:08:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1003: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/09/us-sees-the-return-of-debtor-prisons/</loc>
+		<lastmod>2012-09-05T09:49:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1000: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/uk-economy-needs-infrastructure-stimulus-says-bcc/</loc>
+		<lastmod>2012-08-31T15:47:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 998: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/firms-line-up-to-recoup-tax-debt/</loc>
+		<lastmod>2012-08-30T16:09:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 996: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/uk-economy-double-dip-recession-not-as-deep-as-feared/</loc>
+		<lastmod>2012-08-24T11:50:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 993: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/ex-rangers-owner-craig-whyte-sets-up-debt-collection-agency/</loc>
+		<lastmod>2012-08-21T14:17:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 199: Comments: 2 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/texan-debt-collection-agency-turning-unpaid-into-paid/</loc>
+		<lastmod>2012-08-21T13:33:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 989: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/repossession-rates-drop-to-18-month-low/</loc>
+		<lastmod>2012-08-16T11:41:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 987: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/ccj-value-plumits/</loc>
+		<lastmod>2012-08-15T16:38:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 984: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/businessman-jailed-for-deception-and-fraud/</loc>
+		<lastmod>2012-08-14T15:35:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 982: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/late-payment-improves-for-third-consecutive-quarter/</loc>
+		<lastmod>2012-08-10T11:31:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 980: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/scotland-sees-rise-in-number-of-insolvencies/</loc>
+		<lastmod>2012-08-10T11:03:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 978: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/payday-lender-fined-500000-after-fraud-scam/</loc>
+		<lastmod>2012-08-10T11:02:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 976: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/1-in-4-compulsory-liquidations-is-in-construction/</loc>
+		<lastmod>2012-08-09T10:27:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 974: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/st-albans-director-disqualified-after-diverting-500000/</loc>
+		<lastmod>2012-08-07T13:29:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 971: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/fall-in-company-and-personal-insolvency-levels/</loc>
+		<lastmod>2012-08-06T11:25:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 969: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/insolvency-figures-at-four-year-low/</loc>
+		<lastmod>2012-08-03T15:11:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 967: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/rogue-bosses-escaping-justice-following-watchdog-cuts/</loc>
+		<lastmod>2012-08-03T15:10:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 965: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/irish-debt-scam-gang-suspected-of-keeping-slaves/</loc>
+		<lastmod>2012-08-03T15:08:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 963: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/dubai-bounced-cheque-special-petition-rejected/</loc>
+		<lastmod>2012-08-02T10:17:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 961: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/08/solicitors-to-become-unpaid-debt-collectors/</loc>
+		<lastmod>2012-08-01T13:24:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 959: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/bad-weather-attributed-to-rising-insolvency-rates/</loc>
+		<lastmod>2012-07-31T11:37:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 956: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/csa-comments-on-new-oft-power/</loc>
+		<lastmod>2012-07-30T11:06:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 952: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/csa-dismay-at-new-mental-health-guide/</loc>
+		<lastmod>2012-07-24T08:38:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 949: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/oft-to-close-rogue-debt-collectors/</loc>
+		<lastmod>2012-07-20T09:55:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 945: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/individual-posing-to-be-an-fsa-employee/</loc>
+		<lastmod>2012-07-19T10:44:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 942: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/debt-collection-letter-reveals-credit-card-fraud/</loc>
+		<lastmod>2012-07-18T12:07:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 939: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/insolvency-rates-fall-for-smes/</loc>
+		<lastmod>2012-07-17T12:49:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 935: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/debt-collection-agencies-collecting-6million-per-day/</loc>
+		<lastmod>2012-07-16T11:40:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 930: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/federal-management-24-5-increase-in-half-year-collection-figures/</loc>
+		<lastmod>2012-07-13T12:31:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 927: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/174-million-owed-in-congestion-charges/</loc>
+		<lastmod>2012-07-12T10:03:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 925: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/brit-jailed-in-dubai-hits-out-at-british-embassy/</loc>
+		<lastmod>2012-07-11T10:21:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 923: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/need-for-debt-collection-building-demand-for-contact-centre-optimisation/</loc>
+		<lastmod>2012-07-10T10:07:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 921: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/999-publication-wound-up-after-bogus-advertising-claims/</loc>
+		<lastmod>2012-07-09T13:49:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 919: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/crazed-gunman-executes-bailiffs-in-germany/</loc>
+		<lastmod>2012-07-05T10:18:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 914: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/football-insolvency-appeal-rejected-by-hmrc/</loc>
+		<lastmod>2012-07-03T10:19:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 912: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/07/chairman-of-barclays-resigns/</loc>
+		<lastmod>2012-07-02T15:00:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 910: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/banks-using-ppi-refunds-to-lower-outstanding-debt/</loc>
+		<lastmod>2012-06-29T09:59:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 908: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/experian-names-collectors-bureau-director/</loc>
+		<lastmod>2012-06-28T10:23:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 906: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/late-payments-crippling-many-small-businesses/</loc>
+		<lastmod>2012-06-27T11:20:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 903: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/smes-spending-130-hours-a-year-chasing-late-payers/</loc>
+		<lastmod>2012-06-26T10:15:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 901: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/31million-drop-in-tenant-arrears/</loc>
+		<lastmod>2012-06-25T14:39:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 898: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/82000-debt-left-in-limbo/</loc>
+		<lastmod>2012-06-22T10:18:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 896: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/csa-hails-government-announcement-on-the-edited-electoral-roll/</loc>
+		<lastmod>2012-06-21T10:37:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 894: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/new-credit-ratings-rules-to-help-markets/</loc>
+		<lastmod>2012-06-20T09:55:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 891: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/debt-collectors-attacked-by-machete-wielding-thug/</loc>
+		<lastmod>2012-06-18T10:41:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 889: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/six-jailed-in-credit-fraud-scam/</loc>
+		<lastmod>2012-06-14T10:52:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 887: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/fall-in-insolvency-rates-in-england-and-wales/</loc>
+		<lastmod>2012-06-13T10:34:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 885: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/saab-14-day-debt-recovery-deadline-removed/</loc>
+		<lastmod>2012-06-12T16:40:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 883: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/insolvency-rates-dropping-for-uk-businesses/</loc>
+		<lastmod>2012-06-11T11:13:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 881: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/national-debt-statistics-june-2012/</loc>
+		<lastmod>2012-06-08T10:03:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 879: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/sme-debt-hits-record-high-with-large-businesses-blamed/</loc>
+		<lastmod>2012-06-07T15:42:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 876: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/incomes-and-savings-growing-alongside-debts/</loc>
+		<lastmod>2012-06-06T11:02:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 874: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/06/british-chambers-of-commerce-slashes-growth-rate/</loc>
+		<lastmod>2012-06-01T11:57:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 872: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/csa-celebrates-success-of-cai-initiative/</loc>
+		<lastmod>2012-05-30T10:26:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 868: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/new-startup-loan-scheme-to-get-british-business-going/</loc>
+		<lastmod>2012-05-29T12:29:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 865: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/stricter-credit-control-key-to-improving-cashflow/</loc>
+		<lastmod>2012-05-28T11:19:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 863: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/government-neglecting-small-businesses/</loc>
+		<lastmod>2012-05-24T13:28:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 860: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/imf-greece-must-do-more/</loc>
+		<lastmod>2012-05-23T09:13:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 858: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/uk-inflation-levels-fall-by-0-5/</loc>
+		<lastmod>2012-05-22T11:31:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 855: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/uk-commercial-property-debt-continues-to-drop/</loc>
+		<lastmod>2012-05-21T10:06:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 354: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/01/federal-management-awarded-iso9001/</loc>
+		<lastmod>2012-05-17T16:18:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 848: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/moj-mortgage-and-landlord-repossession-statistics/</loc>
+		<lastmod>2012-05-10T14:11:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 846: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/uk-companies-continuing-to-show-optimism/</loc>
+		<lastmod>2012-05-08T10:41:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 843: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/fsa-issues-still-to-be-resolved/</loc>
+		<lastmod>2012-05-04T14:39:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 840: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/greece-rating-upgraded-out-of-default/</loc>
+		<lastmod>2012-05-03T13:07:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 838: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/05/debt-collection-agencies-chasing-60bn-in-unpaid-consumer-debt/</loc>
+		<lastmod>2012-05-01T13:48:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 835: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/04/uk-economy-has-re-entered-recession/</loc>
+		<lastmod>2012-04-25T13:08:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 831: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/04/poor-inheritance-tax-planning-costing-britons-millions/</loc>
+		<lastmod>2012-04-24T14:01:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 829: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/04/further-council-action-utilising-debt-collection-agencies/</loc>
+		<lastmod>2012-04-23T16:36:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 825: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/04/825/</loc>
+		<lastmod>2012-04-19T09:55:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 822: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/04/councils-following-up-on-debt-collection-agency-recommendation/</loc>
+		<lastmod>2012-04-18T12:52:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 818: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/04/financial-problems-start-at-14416/</loc>
+		<lastmod>2012-04-16T10:49:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 816: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/04/growth-in-uk-services-sector/</loc>
+		<lastmod>2012-04-05T11:19:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 804: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/04/aca-international-2012-spring-forum-expo/</loc>
+		<lastmod>2012-04-03T11:12:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 801: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/04/aca-members-approve-new-governance-structure/</loc>
+		<lastmod>2012-04-02T10:52:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 798: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/retailers-report-172-rise-in-demand-for-fuel/</loc>
+		<lastmod>2012-03-30T09:34:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 796: Comments: 3 of 16 = 0.2 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/councils-encouraged-to-utilise-private-debt-collection-agencies/</loc>
+		<lastmod>2012-03-29T10:14:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 792: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/energy-firms-turning-to-debt-collection-agencies/</loc>
+		<lastmod>2012-03-29T09:56:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 790: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/south-korea-trade-deal-could-see-500-million-come-into-uk-economy/</loc>
+		<lastmod>2012-03-26T10:03:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 784: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/budget-2012-overview/</loc>
+		<lastmod>2012-03-26T09:49:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 786: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/federal-management-has-been-awarded-investors-in-people-accreditation/</loc>
+		<lastmod>2012-03-23T10:37:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 781: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/fsa-wins-32-million-high-court-judgement/</loc>
+		<lastmod>2012-03-21T13:29:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 779: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/new-bank-lending-scheme-to-target-small-businesses/</loc>
+		<lastmod>2012-03-20T11:19:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 776: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/fsa-ceo-to-step-down-from-role/</loc>
+		<lastmod>2012-03-19T11:25:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 774: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/uks-aaa-credit-rating-at-risk/</loc>
+		<lastmod>2012-03-16T12:43:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 765: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/debt-collection-helping-to-slow-unemployment-rates/</loc>
+		<lastmod>2012-03-14T14:58:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 761: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/uk-employment-giving-reason-for-optimism/</loc>
+		<lastmod>2012-03-13T12:00:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 759: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/uk-personal-debt-levels-increase/</loc>
+		<lastmod>2012-03-12T10:21:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 757: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/us-borrowing-on-the-rise/</loc>
+		<lastmod>2012-03-09T10:59:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 755: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/debt-collection-aiding-freeze-in-council-tax/</loc>
+		<lastmod>2012-03-08T14:30:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 753: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/card-fraud-falls-to-lowest-level-in-11-years/</loc>
+		<lastmod>2012-03-07T12:25:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 750: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/hmrc-debt-recovery-northern-ireland-businesses/</loc>
+		<lastmod>2012-03-05T11:40:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 747: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/03/hmrc-debt-recovery-tackling-tax-evasion/</loc>
+		<lastmod>2012-03-01T14:23:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 745: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/cfpb-to-supervise-us-debt-collectors/</loc>
+		<lastmod>2012-02-22T16:18:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 743: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/fsa-managing-director-margaret-cole-to-leave-post/</loc>
+		<lastmod>2012-02-20T12:19:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 741: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/eurozone-calling-for-tighter-oversight-in-greek-bailout/</loc>
+		<lastmod>2012-02-16T12:58:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 737: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/uk-economy-to-zig-zag-towards-recovery/</loc>
+		<lastmod>2012-02-15T17:38:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 733: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/moodys-cut-european-credit-ratings/</loc>
+		<lastmod>2012-02-14T12:04:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 730: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/small-business-lending-targets-missed-by-banks/</loc>
+		<lastmod>2012-02-13T17:48:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 728: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/ministry-of-justice-turn-to-private-debt-collectors/</loc>
+		<lastmod>2012-02-10T12:06:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 726: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/bank-of-england-to-inject-50-million-into-economy/</loc>
+		<lastmod>2012-02-09T16:25:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 724: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/international-association-of-commercial-collectors-elects-2012-board-of-directors/</loc>
+		<lastmod>2012-02-07T17:31:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 721: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/third-party-debt-collection-agencies-boosting-economies/</loc>
+		<lastmod>2012-02-06T15:26:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 717: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/02/federal-management-becomes-member-of-international-trade-association/</loc>
+		<lastmod>2012-02-01T10:27:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 714: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/01/n30bn-loan-to-exporters-by-nexim/</loc>
+		<lastmod>2012-01-31T11:50:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 712: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/01/greek-talks-with-private-investors-to-resume/</loc>
+		<lastmod>2012-01-26T11:15:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 709: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/01/one-trillion-landmark-for-government-debt/</loc>
+		<lastmod>2012-01-25T16:45:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 706: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/01/new-fca-to-regulate-consumer-credit/</loc>
+		<lastmod>2012-01-18T11:48:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 702: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/01/cebr-uk-probably-in-recession/</loc>
+		<lastmod>2012-01-16T12:01:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 700: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/01/universities-have-50-million-of-debt-collected/</loc>
+		<lastmod>2012-01-11T16:19:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 698: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/01/surprisingly-buoyant-uk-service-sector-in-december/</loc>
+		<lastmod>2012-01-10T16:36:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 696: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/01/merkel-urges-deal-be-reached-for-second-greek-bailout/</loc>
+		<lastmod>2012-01-09T14:26:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 693: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2012/01/5-tips-on-improving-your-cashflow/</loc>
+		<lastmod>2012-01-06T14:05:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 689: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/12/christmas-update/</loc>
+		<lastmod>2011-12-28T16:26:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 682: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/12/bad-business-debt-warning-issued-for-new-year-ahead/</loc>
+		<lastmod>2011-12-15T14:53:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 676: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/12/federal-management-accepted-into-fenca/</loc>
+		<lastmod>2011-12-07T14:21:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 671: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/11/how-debt-recovery-can-fill-the-payment-gaps-for-smes/</loc>
+		<lastmod>2011-11-23T09:31:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 667: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/09/csa-annual-conference-sees-new-president-installed/</loc>
+		<lastmod>2011-09-14T11:35:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 664: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/09/saab-facing-bankruptcy/</loc>
+		<lastmod>2011-09-12T14:58:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 660: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/09/debtor-profiling-saving-time-and-money/</loc>
+		<lastmod>2011-09-09T10:05:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 658: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/09/problems-with-late-payers-the-debt-collection-experts-are-on-your-doorstep/</loc>
+		<lastmod>2011-09-08T09:37:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 560: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/06/keep-on-top-of-debtor-delays/</loc>
+		<lastmod>2011-09-05T13:06:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 564: Comments: 1 of 16 = 0.1 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/06/barclays-to-settle-payment-protection-insurance-claims/</loc>
+		<lastmod>2011-09-05T13:01:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 567: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/06/federal-management-receive-investors-in-people-certificate-of-commitment/</loc>
+		<lastmod>2011-09-05T12:59:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 574: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/improving-your-credit-control/</loc>
+		<lastmod>2011-09-05T12:56:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 577: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/central-london-prices-rise-34-since-march-2009/</loc>
+		<lastmod>2011-09-05T12:53:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 579: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/more-problems-for-uk-housing-market/</loc>
+		<lastmod>2011-09-05T12:50:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 591: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/london-borough-issues-bailiff-tender/</loc>
+		<lastmod>2011-09-05T12:45:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 593: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/48-more-buyers-are-obtaining-mortgages/</loc>
+		<lastmod>2011-09-05T12:43:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 597: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/would-you-buy-an-insolvent-company/</loc>
+		<lastmod>2011-09-05T12:39:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 600: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/looking-for-a-debt-collection-agency-let-us-help/</loc>
+		<lastmod>2011-09-05T12:37:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 608: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/hmrc-appoints-ten-debt-collection-agencies-to-collect-1bn/</loc>
+		<lastmod>2011-09-05T12:34:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 606: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/fears-over-europes-debt-crisis-causes-stock-markets-to-fall/</loc>
+		<lastmod>2011-09-05T12:32:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 613: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/stock-markets-rise-after-new-aid-package-to-greece/</loc>
+		<lastmod>2011-09-05T12:30:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 615: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/07/federal-management-announces-new-partnership-with-frontline-collections/</loc>
+		<lastmod>2011-09-05T12:23:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 619: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/09/saab-facing-debt-collection-probe/</loc>
+		<lastmod>2011-09-05T12:14:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 558: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/06/crackdown-on-council-tax-sees-extra-4m-in-arrears-collected/</loc>
+		<lastmod>2011-06-20T12:35:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 555: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/06/distressed-companies-received-1bn-lifeline/</loc>
+		<lastmod>2011-06-17T10:13:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 553: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/06/smes-to-recieve-financial-support-from-government/</loc>
+		<lastmod>2011-06-16T15:19:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 550: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/05/csa-to-be-consulted-in-oft-guidance-for-debt-collectors/</loc>
+		<lastmod>2011-05-11T10:42:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 548: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/04/no-win-no-fee-debt-collection-too-good-to-be-true/</loc>
+		<lastmod>2011-04-12T10:15:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 546: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/04/edinburgh-writes-off-230k-in-unpaid-debt/</loc>
+		<lastmod>2011-04-05T11:24:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 544: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/03/banks-asset-recovery-may-be-delayed-by-consumer-debt/</loc>
+		<lastmod>2011-03-30T12:32:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 542: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/03/council-claws-back-1m-in-benefit-payments/</loc>
+		<lastmod>2011-03-22T15:00:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 539: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/01/decline-in-insolvencies-in-2010/</loc>
+		<lastmod>2011-01-13T10:12:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 537: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/01/bbc-tenders-license-fee-collections-contract/</loc>
+		<lastmod>2011-01-12T10:49:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 533: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/01/debt-collection-agency-required-for-anglian-water/</loc>
+		<lastmod>2011-01-05T10:06:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 529: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2011/01/bailiffs-required-for-coventry/</loc>
+		<lastmod>2011-01-04T10:01:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 525: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/12/happy-new-year/</loc>
+		<lastmod>2010-12-31T13:12:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 519: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/12/federal-management-head-office-hit-by-severe-weather/</loc>
+		<lastmod>2010-12-20T15:09:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 514: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/12/debt-collection-firm-censured-for-targeting-wrong-people/</loc>
+		<lastmod>2010-12-08T11:29:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 509: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/debt-management-clean-up-ordered/</loc>
+		<lastmod>2010-09-28T08:29:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 505: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/debt-collection-firm-files-for-chapter-7-bankruptcy/</loc>
+		<lastmod>2010-09-21T08:36:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 502: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/debt-collectors-to-lead-charge-against-tax-dodgers/</loc>
+		<lastmod>2010-09-20T08:18:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 499: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/utilities-get-debt-collection-option/</loc>
+		<lastmod>2010-09-17T08:21:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 496: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/new-debt-collection-software-includes-a-web-based-dialing-solution/</loc>
+		<lastmod>2010-09-16T08:30:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 493: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/revenue-customs-ability-to-recoup-unpaid-tax-thrown-into-doubt/</loc>
+		<lastmod>2010-09-13T09:55:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 491: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/marlin-snaps-up-21m-bank-portfolio/</loc>
+		<lastmod>2010-09-09T08:15:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 489: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/facebook-postings-can-damage-users-in-legal-financial-arenas/</loc>
+		<lastmod>2010-09-08T08:51:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 486: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/bigamist-swindled-bride-out-of-50000/</loc>
+		<lastmod>2010-09-07T08:15:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 484: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/ira-man-and-convicted-garda-set-up-debt-collection-agency/</loc>
+		<lastmod>2010-09-06T08:20:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 481: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/banks-write-off-record-levels-of-family-debt/</loc>
+		<lastmod>2010-09-03T08:47:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 478: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/09/commissioner-criticises-fsa-debt-collector-over-hectoring/</loc>
+		<lastmod>2010-09-02T08:16:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 476: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/the-early-bird-catches-their-commercial-rent/</loc>
+		<lastmod>2010-08-31T09:33:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 473: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/student-loan-debt-collectors/</loc>
+		<lastmod>2010-08-27T09:03:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 470: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/brokerage-starts-debt-collection-proceedings-against-former-partner-for-184000-loan/</loc>
+		<lastmod>2010-08-26T08:18:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 468: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/more-arizona-cities-outsourcing-to-debt-collection-agencies/</loc>
+		<lastmod>2010-08-24T08:16:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 466: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/fsa-debt-collector-%e2%80%9chectored%e2%80%9d-firm-for-unpaid-fees-2/</loc>
+		<lastmod>2010-08-23T08:39:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 464: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/five-men-detained-over-debt-collection-released/</loc>
+		<lastmod>2010-08-20T09:21:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 462: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/fsa-debt-collector-%e2%80%9chectored%e2%80%9d-firm-for-unpaid-fees/</loc>
+		<lastmod>2010-08-19T08:14:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 458: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/r3-comments-on-the-disqualification-of-the-directors-of-wrapit/</loc>
+		<lastmod>2010-08-17T08:27:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 455: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/services-offered-by-debt-collection-agencies/</loc>
+		<lastmod>2010-08-16T08:03:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 453: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/gulf-lenders-employing-international-debt-collectors/</loc>
+		<lastmod>2010-08-13T09:53:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 450: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/ftc-pushes-for-reform-of-unclear-debt-collection-laws/</loc>
+		<lastmod>2010-08-12T09:35:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 447: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/report-student-loans-exceed-credit-card-debt/</loc>
+		<lastmod>2010-08-11T09:09:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 444: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/gym-offers-late-members-a-fresh-start/</loc>
+		<lastmod>2010-08-10T08:38:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 442: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/stoke-on-trent-writes-off-4m-of-council-tax-debt/</loc>
+		<lastmod>2010-08-09T08:50:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 440: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/little-improvement-in-debt-collection-time-for-it-majors/</loc>
+		<lastmod>2010-08-06T08:33:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 437: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/debt-collectors-on-the-chase-for-hmrc/</loc>
+		<lastmod>2010-08-05T09:23:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 435: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/facebook-makes-debt-collection-sweet-for-creditors/</loc>
+		<lastmod>2010-08-03T10:19:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 431: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/08/firm-owner-summoned-over-debt-collection/</loc>
+		<lastmod>2010-08-02T10:52:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 428: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/debt-collection-agencies-will-be-used-by-hm-revenue-customs/</loc>
+		<lastmod>2010-07-29T08:45:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 426: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/it-delays-cost-hmrc-33m/</loc>
+		<lastmod>2010-07-21T09:43:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 424: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/mercury-constituencies-rack-up-13m-in-child-maintenance-debt/</loc>
+		<lastmod>2010-07-20T16:24:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 422: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/proposal-on-buying-old-debt-opposed/</loc>
+		<lastmod>2010-07-16T10:49:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 416: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/credit-providers-in-drive-to-recover-bad-debts/</loc>
+		<lastmod>2010-07-15T09:26:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 413: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/uae-lenders-hiring-uk-debt-collectors/</loc>
+		<lastmod>2010-07-12T08:40:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 410: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/who-knows-debt-collection-rules/</loc>
+		<lastmod>2010-07-09T12:49:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 408: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/new-rules-for-aggressive-mortgage-lenders/</loc>
+		<lastmod>2010-07-08T09:34:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 406: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/welsh-councils-owed-over-81m-in-council-tax/</loc>
+		<lastmod>2010-07-07T16:12:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 403: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/07/why-debt-collection-is-crucial-for-small-businesses/</loc>
+		<lastmod>2010-07-06T08:39:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 400: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/06/oft-applies-%e2%80%9chome-jurisdiction%e2%80%9d-rule-to-debt-proceedings/</loc>
+		<lastmod>2010-06-18T09:16:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 398: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/06/businesses-more-likely-to-use-debt-collections-agencies-for-international-debts/</loc>
+		<lastmod>2010-06-16T09:00:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 396: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/06/highly-ethical-and-results-driven-debt-collection-services/</loc>
+		<lastmod>2010-06-14T10:35:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 394: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/05/south-african-landlords-fall-under-debt-collection-act/</loc>
+		<lastmod>2010-05-19T09:55:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 392: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/05/cml-announce-45-increase-in-mortgage-lending/</loc>
+		<lastmod>2010-05-18T10:12:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 390: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/04/new-credit-card-deal-from-halifax/</loc>
+		<lastmod>2010-04-20T09:36:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 386: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/04/bill-passing-bonanza-before-dissolution-of-parliament/</loc>
+		<lastmod>2010-04-09T10:34:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 384: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/04/lexisnexis-risk-solutions-helps-debt-collectors-save-50-percent-or-more-in-bankruptcy-searches/</loc>
+		<lastmod>2010-04-07T09:46:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 382: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/03/federal-management-recruitment-update/</loc>
+		<lastmod>2010-03-31T09:27:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 380: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/03/new-jersey-assembly-to-once-again-consider-debt-collection-bill/</loc>
+		<lastmod>2010-03-24T11:19:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 378: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/03/halifax-to-use-debt-collectors-for-credit-card-debt/</loc>
+		<lastmod>2010-03-23T10:37:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 376: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/03/government-struggling-to-recover-1-85bn-in-benefits/</loc>
+		<lastmod>2010-03-18T13:38:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 374: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/03/problems-with-late-payers/</loc>
+		<lastmod>2010-03-10T14:05:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 372: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/03/total-net-lending-rises-by-2bn/</loc>
+		<lastmod>2010-03-08T11:12:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 370: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/03/personal-debt-increases/</loc>
+		<lastmod>2010-03-02T10:55:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 367: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/01/debt-collectors-hunt-dubai-defaulters-abroad/</loc>
+		<lastmod>2010-01-26T11:35:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 364: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/01/364/</loc>
+		<lastmod>2010-01-25T13:34:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 362: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/01/collection-industry-braces-for-card-act-challenges/</loc>
+		<lastmod>2010-01-22T16:23:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 360: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/01/quick-approvals-on-unsecured-loans/</loc>
+		<lastmod>2010-01-21T15:34:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 358: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/01/brighter-outlook-for-outsourced-debt-collection/</loc>
+		<lastmod>2010-01-19T14:08:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 356: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/01/huge-increase-in-receiverships-from-banks/</loc>
+		<lastmod>2010-01-18T11:09:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 351: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2010/01/hmrc-leading-the-winding-up-race/</loc>
+		<lastmod>2010-01-11T10:50:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 349: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/12/ontario-systems-offers-agile-debt-collection-decision/</loc>
+		<lastmod>2009-12-16T13:21:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 347: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/12/calls-for-companies-house-to-prevent-fraud/</loc>
+		<lastmod>2009-12-15T11:13:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 345: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/12/iris-launches-new-debt-recovery-software/</loc>
+		<lastmod>2009-12-14T11:10:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 343: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/12/david-miliband-threatened-with-legal-action-over-council-tax-payment/</loc>
+		<lastmod>2009-12-11T13:36:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 341: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/12/city-guilds-certificated-diploma-in-debt-collection/</loc>
+		<lastmod>2009-12-08T10:41:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 339: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/12/collection-broker-finds-opportunity-in-recession/</loc>
+		<lastmod>2009-12-07T10:56:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 336: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/12/the-csa-strikes-back/</loc>
+		<lastmod>2009-12-04T12:03:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 333: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/12/shortened-debt-collection-timeframe-hits-the-csa-wall/</loc>
+		<lastmod>2009-12-02T11:25:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 331: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/12/banks-urged-to-prepare-for-new-year-woes/</loc>
+		<lastmod>2009-12-01T10:38:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 329: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/companies-checking-potential-employees/</loc>
+		<lastmod>2009-11-26T11:01:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 327: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/showdown-for-credit-card-debt/</loc>
+		<lastmod>2009-11-24T10:46:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 325: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/recession-causing-rising-bad-tax-debt/</loc>
+		<lastmod>2009-11-23T10:43:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 323: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/connecticut-looking-for-debt-collection-agency/</loc>
+		<lastmod>2009-11-20T10:18:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 320: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/store-card-credit-madness/</loc>
+		<lastmod>2009-11-19T10:47:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 318: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/pec-ponders-debt-rates-to-go-slightly-lower/</loc>
+		<lastmod>2009-11-18T11:39:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 316: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/irelands-victorian-debt-laws-to-be-overhauled/</loc>
+		<lastmod>2009-11-17T10:50:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 314: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/fmbn-seeks-to-boost-mortgage-financing/</loc>
+		<lastmod>2009-11-16T09:47:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 312: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/logistics-company-faces-new-future/</loc>
+		<lastmod>2009-11-12T17:08:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 310: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/future-increases-for-credit-card-charges/</loc>
+		<lastmod>2009-11-10T10:39:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 307: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/pioneer-narrows-losses-on-debt-recovery/</loc>
+		<lastmod>2009-11-09T10:27:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 304: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/strategic-partnership-forged/</loc>
+		<lastmod>2009-11-05T11:35:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 299: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/sending-out-an-sas/</loc>
+		<lastmod>2009-11-03T09:53:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 297: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/11/debt-collection-notices-giving-irs-trouble/</loc>
+		<lastmod>2009-11-02T13:31:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 295: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/us-firm-expands-with-purchase-of-dca/</loc>
+		<lastmod>2009-10-30T10:11:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 287: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/agresso-launch-legal-debt-recovery-software/</loc>
+		<lastmod>2009-10-29T11:13:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 278: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/apollo-enhances-fastbatch/</loc>
+		<lastmod>2009-10-29T11:12:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 290: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/optimising-collections-while-reducing-costs/</loc>
+		<lastmod>2009-10-29T11:12:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 285: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/government-versus-credit-store-cards/</loc>
+		<lastmod>2009-10-27T10:40:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 283: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/student-loans-firm-tightening-debt-recovery-procedures/</loc>
+		<lastmod>2009-10-26T09:33:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 281: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/checks-to-check-the-credit-check-checkers-err-what/</loc>
+		<lastmod>2009-10-22T09:52:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 275: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/brighter-times-for-debt-collection-agencies/</loc>
+		<lastmod>2009-10-20T17:00:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 272: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/has-unemploment-peaked/</loc>
+		<lastmod>2009-10-19T09:37:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 269: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/slower-growth-in-uk-unemployment/</loc>
+		<lastmod>2009-10-14T15:23:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 267: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/apollo-launches-new-debt-collection-solution/</loc>
+		<lastmod>2009-10-13T12:08:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 265: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/10/spend-smart-over-the-christmas-period/</loc>
+		<lastmod>2009-10-12T08:46:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 263: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/09/liverpool-debt-collection-agency-to-cut-jobs/</loc>
+		<lastmod>2009-09-07T15:13:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 261: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/09/possible-job-losses-at-uk-lender/</loc>
+		<lastmod>2009-09-02T09:47:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 259: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/09/debt-recovery-priority-for-afribank/</loc>
+		<lastmod>2009-09-01T09:21:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 257: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/australian-police-left-red-faced/</loc>
+		<lastmod>2009-08-28T10:42:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 255: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/nigerian-real-estate-development-receives-boost/</loc>
+		<lastmod>2009-08-25T10:04:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 253: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/prompt-payments-to-help-business-survival/</loc>
+		<lastmod>2009-08-25T09:40:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 251: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/23k-debt-facing-new-students/</loc>
+		<lastmod>2009-08-21T09:13:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 249: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/bay-area-hospitals-and-debt-collection/</loc>
+		<lastmod>2009-08-19T10:27:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 247: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/russian-banks-step-up-debt-collection-activity/</loc>
+		<lastmod>2009-08-18T09:10:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 245: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/getting-paid-during-tough-times/</loc>
+		<lastmod>2009-08-17T10:44:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 243: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/swindon-council-writes-off-over-2-5m-of-debt/</loc>
+		<lastmod>2009-08-14T09:33:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 240: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/esb-forced-to-defend-ude-of-debt-collection-agency/</loc>
+		<lastmod>2009-08-13T09:45:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 238: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/cas-reports-increase-in-debt-related-issues/</loc>
+		<lastmod>2009-08-12T09:51:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 236: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/increase-in-loans-to-homebuyers/</loc>
+		<lastmod>2009-08-11T10:11:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 233: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/large-increase-in-personal-insolvencies/</loc>
+		<lastmod>2009-08-10T09:48:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 231: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/changing-strategy-to-increase-profits/</loc>
+		<lastmod>2009-08-07T10:38:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 229: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/network-data-directors-feeling-heat/</loc>
+		<lastmod>2009-08-06T10:33:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 227: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/london-scottish-to-sell-debt-collection-division/</loc>
+		<lastmod>2009-08-05T10:26:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 224: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/changing-times-for-us-debt-collection/</loc>
+		<lastmod>2009-08-04T11:59:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 222: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/08/school-to-call-in-debt-collectors/</loc>
+		<lastmod>2009-08-03T09:40:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 220: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/why-you-should-credit-check-a-potential-customer/</loc>
+		<lastmod>2009-07-31T11:58:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 217: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/business-debt-recovery/</loc>
+		<lastmod>2009-07-30T14:35:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 215: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/international-debt-collection/</loc>
+		<lastmod>2009-07-29T09:32:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 210: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/online-debt-collection-agencies/</loc>
+		<lastmod>2009-07-27T09:34:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 208: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/how-credit-checks-help-companies/</loc>
+		<lastmod>2009-07-23T09:51:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 206: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/changes-to-the-costs-of-ccjs/</loc>
+		<lastmod>2009-07-22T10:54:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 204: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/scb-to-create-debt-collection-company/</loc>
+		<lastmod>2009-07-20T09:57:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 202: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/online-debt-collection/</loc>
+		<lastmod>2009-07-16T10:38:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 197: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/debt-management-firms-receive-oft-warning/</loc>
+		<lastmod>2009-07-13T09:12:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 194: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/medical-debt-collection-on-the-rise/</loc>
+		<lastmod>2009-07-10T12:59:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 192: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/changing-times-within-the-courts/</loc>
+		<lastmod>2009-07-09T09:57:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 189: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/landlords-becoming-more-selective/</loc>
+		<lastmod>2009-07-08T09:28:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 185: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/four-debt-collection-agencies-owned-by-private-equity-firms/</loc>
+		<lastmod>2009-07-07T12:21:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 183: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/276-people-jailed-in-ireland-in-2008-for-not-paying-debts/</loc>
+		<lastmod>2009-07-06T12:25:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 179: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/debt-collection-for-small-businesses/</loc>
+		<lastmod>2009-07-03T11:16:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 177: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/just-what-is-bad-debt/</loc>
+		<lastmod>2009-07-02T09:20:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 175: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/07/fsa-penalties-sky-rocket/</loc>
+		<lastmod>2009-07-01T08:52:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 173: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/uk-financial-system-facing-a-long-road-to-recovery/</loc>
+		<lastmod>2009-06-30T09:37:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 171: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/hospitals-looking-for-upfront-payments/</loc>
+		<lastmod>2009-06-29T11:19:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 168: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/new-debt-collection-solutions-for-new-zealand/</loc>
+		<lastmod>2009-06-26T08:44:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 166: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/inland-revenue-to-use-online-collection/</loc>
+		<lastmod>2009-06-25T10:46:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 164: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/landlord-finds-cannabis-factory/</loc>
+		<lastmod>2009-06-24T09:30:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 162: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/pay-attention-to-past-due-customers/</loc>
+		<lastmod>2009-06-23T09:24:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 159: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/78m-of-welsh-council-tax-not-collected/</loc>
+		<lastmod>2009-06-22T09:24:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 156: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/a-reality-check-for-landlords/</loc>
+		<lastmod>2009-06-19T10:57:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 154: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/a-new-dawn-a-new-day-same-old-scandal/</loc>
+		<lastmod>2009-06-19T09:25:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 152: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/hmrc-defends-debt-collection-policies/</loc>
+		<lastmod>2009-06-18T09:28:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 149: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/eu-credit-data-sharing-to-improve-pan-europe-credit-checks/</loc>
+		<lastmod>2009-06-17T09:39:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 147: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/the-bad-debt-issue/</loc>
+		<lastmod>2009-06-16T09:05:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 145: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/international-debt-collection-soaring-across-the-globe/</loc>
+		<lastmod>2009-06-15T10:32:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 142: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/company-debt-collection-soars/</loc>
+		<lastmod>2009-06-12T22:15:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 140: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/uk-government-owed-billions-in-unpaid-taxes/</loc>
+		<lastmod>2009-06-09T09:51:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 138: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/anglian-water-plugging-the-leak/</loc>
+		<lastmod>2009-06-05T13:39:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 136: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/improving-the-debt-recovery-process/</loc>
+		<lastmod>2009-06-04T11:19:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 134: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/upper-class-debt/</loc>
+		<lastmod>2009-06-03T09:24:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 132: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/new-york-debt-collection-legislation/</loc>
+		<lastmod>2009-06-02T20:56:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 130: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/06/debt-collection-streamlined/</loc>
+		<lastmod>2009-06-01T10:08:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 128: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/new-xml-based-debt-collection-solution/</loc>
+		<lastmod>2009-05-29T09:23:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 126: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/swedish-fund-to-invest-in-russian-debt-collection-agency/</loc>
+		<lastmod>2009-05-28T08:59:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 123: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/companies-turning-to-debt-collection-agencies/</loc>
+		<lastmod>2009-05-27T09:00:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 121: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/21st-century-debt-collection-solution/</loc>
+		<lastmod>2009-05-26T08:53:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 118: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/payment-practices-deteriorate-in-the-uk/</loc>
+		<lastmod>2009-05-22T14:45:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 116: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/hmrc-to-utilise-debt-collection-agencies/</loc>
+		<lastmod>2009-05-21T09:49:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 114: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/oft-to-update-debt-collection-guidance/</loc>
+		<lastmod>2009-05-20T08:25:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 112: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/debtor-profiling-for-the-modern-age/</loc>
+		<lastmod>2009-05-18T09:23:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 110: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/when-is-the-right-time-to-use-debt-collectors/</loc>
+		<lastmod>2009-05-15T09:16:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 108: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/the-importance-of-credit-checks-in-the-current-climate/</loc>
+		<lastmod>2009-05-13T14:19:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 106: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/debt-collection-ahead-of-the-curve/</loc>
+		<lastmod>2009-05-12T08:33:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 103: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/child-maintenance-arrears-at-38bn/</loc>
+		<lastmod>2009-05-11T08:44:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 101: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/does-everyone-get-a-free-laptop-with-mobile-broadband/</loc>
+		<lastmod>2009-05-08T08:48:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 97: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/debt-collection-agencies-can-help-improve-profitability/</loc>
+		<lastmod>2009-05-07T09:17:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 95: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/tenant-demand-falls-across-all-sectors/</loc>
+		<lastmod>2009-05-06T08:41:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 93: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/debt-collection-agencies-adapt-to-credit-crunch/</loc>
+		<lastmod>2009-05-05T08:52:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 91: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/05/18-billion-still-owed-to-dwp/</loc>
+		<lastmod>2009-05-01T12:48:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 89: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/04/us-jury-awards-500k-against-dca/</loc>
+		<lastmod>2009-04-29T14:55:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 85: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/04/graduates-facing-emploment-credit-checks/</loc>
+		<lastmod>2009-04-28T09:03:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 82: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/04/managing-director-quits-uk-dca/</loc>
+		<lastmod>2009-04-27T09:19:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 79: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/04/is-wikipedia-valid-court-evidence/</loc>
+		<lastmod>2009-04-27T09:07:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 76: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/04/oft-orders-dca-to-improve-practices/</loc>
+		<lastmod>2009-04-22T14:06:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 74: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/04/1st-credit-dropped-by-major-players/</loc>
+		<lastmod>2009-04-21T13:43:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 72: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/04/new-dca-cool-off-period/</loc>
+		<lastmod>2009-04-21T13:22:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 69: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/02/return-of-the-woolies/</loc>
+		<lastmod>2009-02-02T09:51:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 67: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/01/scottish-dca-suffers-anthrax-scare/</loc>
+		<lastmod>2009-01-27T14:55:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 65: Comments: 0 of 16 = 0 points -->
+	<url>
+		<loc>http://www.federalmanagement.co.uk/news/2009/01/new-unfair-debt-collection-laws/</loc>
+		<lastmod>2009-01-20T10:11:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>

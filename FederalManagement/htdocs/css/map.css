@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+#world {
+ width:424px;
+ height:270px;
+ background:url(../img/map.png) no-repeat;
+ margin:0px 0px 0px 0px;
+ padding: 0;
+ position:relative;
+ border:2px solid #bbb;
+ display:block;
+ float:left;
+ -webkit-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -moz-border-radius: 5px;
+ -moz-border-radius: 5px;
+ border-radius: 5px;
+ border-radius: 5px; 
+}
+#world li {margin: 0; padding: 0; list-style: none; display: block; position: absolute;}
+
+#world a {display: block; text-indent: -9999px; text-decoration: none;}
+
+#america {left: 0px; top: 0px; width: 200px; height: 270px; z-index: 40;}
+#europe {left: 190px; top: 50px; width: 100px; height: 90px; z-index: 50;}
+#asia {left: 232px; top: 30px; width: 185px; height: 160px; z-index: 45;}
+#africa {left: 180px; top: 130px; width: 90px; height: 105px; z-index: 44;}
+#oceania {left: 335px; top: 180px; width: 85px; height: 70px; z-index: 43;}
+
+#america a {height: 270px;}
+#europe a {height: 90px;}
+#asia a {height: 160px;}
+#africa a {height: 105px;}
+#oceania a {height: 70px;}
+
+.buk #america a, #america a:hover {background: url(../img/map.png) 0px -399px no-repeat;}
+.bire #europe a, #europe a:hover {background: url(../img/map.png) -190px -285px no-repeat;}
+#asia a:hover {background: url(../img/map.png) -232px -677px no-repeat;}
+#africa a:hover {background: url(../img/map.png) -180px -865px no-repeat;}
+#oceania a:hover {background: url(../img/map.png) -334px -987px no-repeat;}

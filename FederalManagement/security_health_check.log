@@ -1,0 +1,14 @@
+[fhlinux138] [2015/08/17 20:55:54] [audzngqw] [               NOTICE ] -----------------------------------------------------------------------
+[fhlinux138] [2015/08/17 20:55:54] [audzngqw] [               NOTICE ] This scan has been initiated by an automated process to search for
+[fhlinux138] [2015/08/17 20:55:54] [audzngqw] [               NOTICE ] files and installations that may be compromised
+[fhlinux138] [2015/08/17 20:55:54] [audzngqw] [               NOTICE ] No changes are made to your site during this scan.
+[fhlinux138] [2015/08/17 20:55:54] [audzngqw] [               NOTICE ] Version 2.1.12 [Built 13-11-2014]
+[fhlinux138] [2015/08/17 20:55:54] [audzngqw] [               NOTICE ] -----------------------------------------------------------------------
+[fhlinux138] [2015/08/17 20:55:54] [audzngqw] [                 INFO ] Checking /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/
+[fhlinux138] [2015/08/17 20:56:06] [audzngqw] [                FOUND ] Found installation at '/home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/news' [Wordpress::4.2.3]
+[fhlinux138] [2015/08/17 20:56:06] [audzngqw] [              WARNING ] Detected 'Wordpress' version of '4.2.3' does not match the current listed stable version of '4.2.4'. Consider updating.
+[fhlinux138] [2015/08/17 20:56:06] [audzngqw] [                FOUND ] Found installation at '/home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/remake/news' [Wordpress::4.2.2]
+[fhlinux138] [2015/08/17 20:56:06] [audzngqw] [              WARNING ] Detected 'Wordpress' version of '4.2.2' does not match the current listed stable version of '4.2.4'. Consider updating.
+[fhlinux138] [2015/08/17 20:57:20] [audzngqw] [              SUMMARY ] [/home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/] [9205 files found] [4342 files scanned]
+[fhlinux138] [2015/08/17 20:57:20] [audzngqw] [              SUMMARY ] [/home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/] [Path appears clean]
+[fhlinux138] [2015/08/17 20:57:20] [audzngqw] [              SUMMARY ] [/home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/] [Scan completed in 86 seconds]

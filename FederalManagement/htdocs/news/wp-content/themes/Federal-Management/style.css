@@ -1,0 +1,203 @@
+/*
+Theme Name: Federal Management
+Theme URI: http://www.federalmanagement.co.uk/
+Description: This is a custom theme created by Just Search for the website www.federalmanagement.co.uk
+Version: 1.6
+Author: Just Search
+Author URI: http://www.justsearching.co.uk/
+*/
+/* Begin Typography & Colors */
+
+
+/*-------------------- Layout ----------------------------------*/
+
+body {
+	background-color: #070707;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	color:#FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	text-align:left;
+}
+
+#content{
+	margin-left:25px;
+	list-style-type:none;
+	text-align:left;
+}
+
+#sidebar{
+text-align:left;
+}
+
+
+#content li{
+list-style-image:url(images/bullet_go_red.png);
+list-style-type:none;
+}
+
+#content blockquote{
+background-image:url(images/quote_open.png);
+background-repeat:no-repeat;
+border-left:2px solid red;
+margin:15px 30px 0 10px;
+padding-left:60px;
+}
+
+.alignright{
+float:right;
+}
+
+.alignleft{
+float:right;
+}
+
+.postmetadata{
+border: 1px dashed grey;
+background-color:#333333;
+padding:2px;
+padding-left:5px;
+}
+
+.commentlist li{
+list-style-image:none!important;
+list-style-type:none!important;
+}
+
+/*-------------------- LINKS ----------------------------------*/
+
+#content h2 a{
+	font-weight: bold;
+	margin-bottom:0;
+	text-decoration:none;
+	color:#FFFFFF;
+	font-size:20px;
+	padding-bottom:5px;
+	
+}
+
+#content a{
+color:#FFFDC0;
+}
+
+#content a:hover{
+color:#FFFFFF;
+}
+
+#sidebar a{
+color:#000000;
+font-weight:bold;
+}
+
+/*-------------------- Lists ----------------------------------*/
+
+#sidebar ul ul{
+	margin-left:0px;
+	padding-left:0px;
+}
+
+/*-------------------- HEDERS ----------------------------------*/
+
+.style12 {
+	font-size: 12px; font-family: Arial, Helvetica, sans-serif;
+	}
+
+#content h2{
+	margin-bottom:0;
+	border-bottom: dashed 1px grey;
+}
+
+h3 {
+	font-size: 12px;
+	color: fffdc0;
+}
+
+#sidebar h2{
+	color:#BB0F01;
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:2px;
+	width:100%;
+}
+
+.narrowcolumn small{
+	padding-top:5px;
+	color:#FFFDC0;
+
+}
+
+.widecolumn{
+width:450px;
+}
+
+/*-------------------- Random Styles ----------------------------------*/
+
+.style13 {
+	color: #FFFFFF
+}
+
+.style1 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+.style2 {
+	color: #333333
+}
+
+.style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #fffdc0;
+	padding:0
+}
+
+.style5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+}
+
+.style6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #BB0F01;
+	font-weight:bold
+}
+
+.style7 {
+	font-size: 10px;
+	color: #CCCCCC;
+}
+
+.style8 {
+	color: #BB0F01;
+	font-weight: bold;
+	font-size:20px
+}
+
+.style9 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.style10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #BB0F01;
+}
+
+.style11 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.fn{
+font-size:20px;
+}

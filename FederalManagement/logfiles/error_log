@@ -1,0 +1,378 @@
+[Tue Aug 18 04:36:50 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/blog/
+[Tue Aug 18 04:53:31 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/assetmanager/assetmanager.aspx
+[Tue Aug 18 04:53:31 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/Editor/assetmanager/assetmanager.aspx
+[Tue Aug 18 04:53:31 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/admin/Editor/assetmanager/assetmanager.aspx
+[Tue Aug 18 04:53:31 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/check.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/admin/assetmanager/assetmanager.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/assetmanager/assetmanager.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/Editor/assetmanager/assetmanager.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/checkimg.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/UserFiles/File/e.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/UserFiles/File/asp.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/UserFiles/File/3.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/admin/assetmanager/assetmanager.aspx
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/UserFiles/File/f.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/admin/Editor/assetmanager/assetmanager.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/UserFiles/File/cer.cer
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/UserFiles/e.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/UserFiles/File/temper.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/UserFiles/asp.asp
+[Tue Aug 18 04:53:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/UserFiles/f.asp
+[Tue Aug 18 04:55:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/blog/
+[Tue Aug 18 05:18:30 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/csa-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 05:18:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/fenca-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 05:18:33 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/ico-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 05:18:34 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/investors-in-people-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 05:18:36 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/iso9001.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 05:18:37 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/ukdcb-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 05:27:53 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/ico-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 05:27:54 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/investors-in-people-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 05:27:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/iso9001.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 05:41:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/international-debt-collection/uk\xe2\x80\xa6r-one-international-debt-collection-agency-1/images/interface/main_bg.jpg
+[Tue Aug 18 06:31:01 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/install/
+[Tue Aug 18 06:52:56 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 08:45:02 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 08:45:02 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/apple-touch-icon-precomposed.png
+[Tue Aug 18 08:45:02 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/apple-touch-icon.png
+[Tue Aug 18 08:53:22 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 08:53:38 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 08:54:01 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 08:54:01 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/css/images/loading.gif
+[Tue Aug 18 09:24:29 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/csa-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 09:24:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/fenca-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 09:24:37 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/ico-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 09:24:41 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/investors-in-people-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 09:24:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/iso9001.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 09:24:47 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/certificates/ukdcb-2012.pdf&iframe=true&width=50%&height=90%
+[Tue Aug 18 09:26:29 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 09:26:34 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 09:34:17 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 09:42:26 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 09:43:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 09:56:53 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 09:58:25 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 09:58:30 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 09:58:34 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/remake/css/tooltip.css
+[Tue Aug 18 10:09:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:14:11 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 10:16:11 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:20:50 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:20:55 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:20:56 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:21:27 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:21:28 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:27:48 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/remake/news/css/bootstrap.min.css
+[Tue Aug 18 10:27:48 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/remake/news/css/business-casual.css
+[Tue Aug 18 10:27:49 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 10:28:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:28:47 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:28:49 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:29:12 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:29:17 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:29:33 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:29:39 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:29:51 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:29:56 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:30:04 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:30:07 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:30:07 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/css/images/loading.gif
+[Tue Aug 18 10:30:09 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:30:29 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:30:29 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/css/images/loading.gif
+[Tue Aug 18 10:30:34 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:31:06 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:31:08 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:31:27 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:31:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:31:46 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:31:49 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:31:51 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:32:03 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:32:08 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:32:18 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:32:23 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:32:27 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:32:37 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:32:37 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/css/images/loading.gif
+[Tue Aug 18 10:32:37 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/css/toggle_block_btm.gif
+[Tue Aug 18 10:32:40 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:32:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:33:05 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:54:03 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 10:54:03 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 10:55:10 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:55:15 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:56:31 2015] [alert] [client 127.0.0.1] /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/news/wp-content/plugins/akismet/.htaccess: order not allowed here
+[Tue Aug 18 10:56:32 2015] [alert] [client 127.0.0.1] /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/news/wp-content/plugins/akismet/.htaccess: order not allowed here
+[Tue Aug 18 10:56:36 2015] [alert] [client 127.0.0.1] /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/news/wp-content/plugins/akismet/.htaccess: order not allowed here
+[Tue Aug 18 10:59:01 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:59:06 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 10:59:26 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/js/sitemap.js
+[Tue Aug 18 11:05:02 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/news/tag/british-economy/css/nivo-slider.css
+[Tue Aug 18 11:05:49 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:05:49 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:05:49 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../news/wp-blog-header.php' for inclusion (include_path='.:/usr/share/pear-php5') in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:05:49 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Fatal error:  Call to undefined function  query_posts() in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 128
+[Tue Aug 18 11:10:39 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:10:39 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:10:39 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../news/wp-blog-header.php' for inclusion (include_path='.:/usr/share/pear-php5') in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:10:39 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Fatal error:  Call to undefined function  query_posts() in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 128
+[Tue Aug 18 11:10:44 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:10:44 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:10:44 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../news/wp-blog-header.php' for inclusion (include_path='.:/usr/share/pear-php5') in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:10:44 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Fatal error:  Call to undefined function  query_posts() in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 128
+[Tue Aug 18 11:11:24 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:11:24 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:11:24 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../news/wp-blog-header.php' for inclusion (include_path='.:/usr/share/pear-php5') in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:11:24 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Fatal error:  Call to undefined function  query_posts() in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 128
+[Tue Aug 18 11:11:31 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:11:31 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:11:31 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../news/wp-blog-header.php' for inclusion (include_path='.:/usr/share/pear-php5') in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:11:31 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Fatal error:  Call to undefined function  query_posts() in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 128
+[Tue Aug 18 11:11:37 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:11:50 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:11:50 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:11:50 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../news/wp-blog-header.php' for inclusion (include_path='.:/usr/share/pear-php5') in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:11:50 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Fatal error:  Call to undefined function  query_posts() in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 128
+[Tue Aug 18 11:12:50 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:14:37 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:14:37 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:14:37 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../news/wp-blog-header.php' for inclusion (include_path='.:/usr/share/pear-php5') in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:14:37 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Fatal error:  Call to undefined function  query_posts() in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 128
+[Tue Aug 18 11:15:32 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(/news/wp-blog-header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:15:32 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/news/wp-blog-header.php' for inclusion (include_path='.:/usr/share/pear-php5') in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 127
+[Tue Aug 18 11:15:32 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Fatal error:  Call to undefined function  query_posts() in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/main.php on line 128
+[Tue Aug 18 11:16:02 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:18:51 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/remake/news/css/business-casual.css
+[Tue Aug 18 11:18:51 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/remake/news/css/bootstrap.min.css
+[Tue Aug 18 11:23:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:28:09 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:28:55 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/remake/css/tooltip.css
+[Tue Aug 18 11:29:46 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/blog/
+[Tue Aug 18 11:30:38 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:31:07 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:31:31 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:34:17 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:34:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:34:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:40:31 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/corporate/about_us.php
+[Tue Aug 18 11:51:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/contact.php
+[Tue Aug 18 11:51:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 11:52:06 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/contact.php
+[Tue Aug 18 12:00:04 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/index.html
+[Tue Aug 18 12:00:05 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/international/rusia
+[Tue Aug 18 12:00:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/contact.php
+[Tue Aug 18 12:02:24 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/index.html
+[Tue Aug 18 12:02:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:02:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:02:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:02:33 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:02:33 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:02:33 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:02:33 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:02:33 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:02:33 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:02:34 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 12:02:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/international/rusia
+[Tue Aug 18 12:03:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:03:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:03:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:03:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:03:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:03:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:03:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:03:15 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 12:04:34 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/corporate/media.php
+[Tue Aug 18 12:06:36 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt-collection/agency/uk-number-one-debt-collection-agency-1
+[Tue Aug 18 12:06:47 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt-collection/agency/uk-number-one-debt-collection-agency-1/index.php
+[Tue Aug 18 12:07:37 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/agency/uk-number-one-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:07:42 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/interface/google-plus-icon.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/interface/social-facebook.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/interface/social-linkedin.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/interface/social-twitter.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/interface/social-rss.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/interface/social-google-plus.png
+[Tue Aug 18 12:07:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:08:12 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/business/uk-number-one-debt-collection-agency-4/
+[Tue Aug 18 12:08:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/business/uk-number-one-business-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:08:37 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:08:49 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/other_services/recruitment.php
+[Tue Aug 18 12:08:49 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/other_services/business_checks.php
+[Tue Aug 18 12:08:49 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/other_services/debt_recovery_training.php
+[Tue Aug 18 12:08:49 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/other_services/vehicle_recovery.php
+[Tue Aug 18 12:08:49 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/faqs.php
+[Tue Aug 18 12:09:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/commercial/uk-number-one-commercial-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:09:39 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/company/uk-number-one-company-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:10:07 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/consumer/uk-number-one-consumer-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:10:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/agency/uk-number-one-debt-collection-agency-1
+[Tue Aug 18 12:11:20 2015] [error] [client 127.0.0.1] Directory index forbidden by rule: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/debt-collection/agency/uk-number-one-debt-collection-agency-1/
+[Tue Aug 18 12:11:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/debt-collection/london/uk-number-one-london-debt-collection-agency-1
+[Tue Aug 18 12:11:54 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/london/uk-number-one-london-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:11:56 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:12:25 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/manchester/uk-number-one-manchester-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:12:28 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:17:25 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/index.html
+[Tue Aug 18 12:17:31 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/private/uk-number-one-private-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:18:04 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/uk-number-one-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:18:06 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:18:28 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:18:30 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:18:58 2015] [error] [client 127.0.0.1] Directory index forbidden by rule: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/bailiffs/
+[Tue Aug 18 12:19:10 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/bailiffs/uk-number-one-bailiffs-agency-3/css/images/loading.gif
+[Tue Aug 18 12:19:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/commercial/uk-number-one-commercial-debt-collectors-1/images/banners/logo_chambers_commerce.png
+[Tue Aug 18 12:19:49 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/commercial/uk-number-one-commercial-debt-collectors-3/css/images/loading.gif
+[Tue Aug 18 12:19:52 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:20:12 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:20:27 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/commercial/uk-number-one-consumer-debt-collectors-1
+[Tue Aug 18 12:20:43 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/consumer/uk-number-one-consumer-debt-collectors-3/css/images/loading.gif
+[Tue Aug 18 12:21:15 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/london/uk-number-one-london-debt-collectors-3/css/images/loading.gif
+[Tue Aug 18 12:22:39 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/agency/uk-number-one-debt-collection-agency-4/
+[Tue Aug 18 12:22:39 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 12:22:39 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 12:22:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:22:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:22:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:22:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:22:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:22:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:22:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:22:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:22:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:22:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:22:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:22:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:22:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:22:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:22:47 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 12:23:10 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:23:10 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:23:10 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:23:10 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:23:10 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:23:10 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:23:10 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:23:11 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 12:23:18 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/manchester/uk-number-one-manchester-debt-collectors-3/css/images/loading.gif
+[Tue Aug 18 12:23:21 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:24:05 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/national/uk-number-one-national-debt-collectors-3/css/images/loading.gif
+[Tue Aug 18 12:24:33 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/private/uk-number-one-private-debt-collectors-3/css/images/loading.gif
+[Tue Aug 18 12:24:35 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:24:35 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:24:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collectors/uk-number-one-debt-collectors-3/css/images/loading.gif
+[Tue Aug 18 12:25:01 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:25:02 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:27:26 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/agency/uk-number-one-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:27:52 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/business/uk-number-one-business-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:28:11 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/commercial/uk-number-one-commercial-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:28:37 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/company/uk-number-one-company-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:28:55 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/consumer/uk-number-one-consumer-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:29:07 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/london/uk-number-one-london-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:29:28 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/manchester/uk-number-one-manchester-debt-recovery-agency-1/images/interface/main_bg.jpg
+[Tue Aug 18 12:29:32 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/manchester/uk-number-one-manchester-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:29:48 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/private/uk-number-one-private-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:30:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-recovery/uk-number-one-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:30:35 2015] [error] [client 127.0.0.1] Directory index forbidden by rule: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/
+[Tue Aug 18 12:30:44 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../includes/phones.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/index.php on line 10
+[Tue Aug 18 12:30:44 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include(../includes/phones.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/index.php on line 10
+[Tue Aug 18 12:30:44 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../includes/phones.php' for inclusion (include_path='.:/usr/share/pear-php5') in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/index.php on line 10
+[Tue Aug 18 12:30:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/css/images/loading.gif
+[Tue Aug 18 12:31:09 2015] [error] [client 127.0.0.1] Directory index forbidden by rule: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/international-debt-collection/
+[Tue Aug 18 12:31:15 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:31:16 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:31:22 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/international-debt-collection/uk-number-one-international-debt-collection-agency-3/css/images/loading.gif
+[Tue Aug 18 12:31:31 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:32:11 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/international-debt-collectors/uk-number-one-international-debt-collectors-3/css/images/loading.gif
+[Tue Aug 18 12:32:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/international-debt-recovery/uk-number-one-international-debt-recovery-agency-3/css/images/loading.gif
+[Tue Aug 18 12:34:04 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/index.html
+[Tue Aug 18 12:34:05 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/international/rusia
+[Tue Aug 18 12:34:31 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/contact.php
+[Tue Aug 18 12:35:30 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/corporate/sitemap.php
+[Tue Aug 18 12:36:46 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/general/testimonials-big.jpg
+[Tue Aug 18 12:37:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/international/rusia
+[Tue Aug 18 12:37:14 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/other_services/recruitment.php
+[Tue Aug 18 12:37:17 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/other_services/recruitment.php
+[Tue Aug 18 12:37:40 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/index.html
+[Tue Aug 18 12:41:54 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:41:54 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:41:54 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:41:55 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:41:55 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:41:55 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:41:55 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:42:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 12:42:52 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/index.html
+[Tue Aug 18 12:42:52 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/international/rusia
+[Tue Aug 18 12:42:52 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/plugins/like.php
+[Tue Aug 18 12:43:15 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/contact.php
+[Tue Aug 18 12:44:38 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/other_services/recruitment.php
+[Tue Aug 18 12:45:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:45:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:45:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:45:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:45:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:45:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:45:57 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:46:03 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:46:03 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:46:03 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:46:03 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:46:03 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:46:03 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:46:04 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:46:06 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 12:46:06 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 12:46:06 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 12:46:06 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 12:46:06 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 12:46:07 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 12:46:07 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 12:46:29 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/other_services/recruitment.php
+[Tue Aug 18 12:53:24 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 12:54:18 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/faqs.php
+[Tue Aug 18 12:54:51 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/general/testimonials-big.jpg
+[Tue Aug 18 13:01:33 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/header.php:87) in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/news/wp-content/plugins/wordpress-mobile-pack/core/mobile-detect.php on line 93
+[Tue Aug 18 13:09:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 13:09:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 13:09:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 13:09:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 13:09:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_investors.png
+[Tue Aug 18 13:09:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 13:09:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 13:09:59 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 13:10:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fca.png
+[Tue Aug 18 13:10:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_ico.png
+[Tue Aug 18 13:10:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_fenca.png
+[Tue Aug 18 13:10:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_aca.png
+[Tue Aug 18 13:10:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_iab.jpg
+[Tue Aug 18 13:10:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/banners/logo_csa.png
+[Tue Aug 18 13:10:02 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 13:19:00 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/contact.php
+[Tue Aug 18 13:30:42 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/media/uploads/csa-article-2009.pdf
+[Tue Aug 18 13:37:22 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 13:37:51 2015] [error] [client 127.0.0.1] Directory index forbidden by rule: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/img/
+[Tue Aug 18 13:38:45 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 13:40:23 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 13:46:56 2015] [error] [client 127.0.0.1] Directory index forbidden by rule: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/international/china/
+[Tue Aug 18 13:48:05 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/interface/logo-csa-big.jpg
+[Tue Aug 18 14:01:57 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/header.php:87) in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/news/wp-content/plugins/wordpress-mobile-pack/core/mobile-detect.php on line 93
+[Tue Aug 18 14:10:13 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/index.html
+[Tue Aug 18 14:10:17 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/international/rusia
+[Tue Aug 18 14:10:47 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/contact.php
+[Tue Aug 18 14:12:17 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/corporate/links.php
+[Tue Aug 18 14:14:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/debt_collection/contact.php
+[Tue Aug 18 14:14:44 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 14:16:17 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 14:34:46 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 14:36:15 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 14:36:35 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/favicon.ico
+[Tue Aug 18 14:41:09 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/css/tooltip.css
+[Tue Aug 18 14:43:32 2015] [error] [client 127.0.0.1] FastCGI: server "/var/www/fcgi/php-cgi" stderr: PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/header.php:87) in /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/news/wp-content/plugins/wordpress-mobile-pack/core/mobile-detect.php on line 93
+[Tue Aug 18 14:47:30 2015] [alert] [client 127.0.0.1] /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/.htaccess: ExpiresActive not allowed here
+[Tue Aug 18 14:51:30 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/google/debt-collection/private/uk-number-one-private-debt-collection-agency-3/
+[Tue Aug 18 14:52:23 2015] [error] [client 127.0.0.1] File does not exist: /home/fhlinux138/f/federalmanagement.co.uk/user/htdocs/images/general/rent_recovery_02.jpg
